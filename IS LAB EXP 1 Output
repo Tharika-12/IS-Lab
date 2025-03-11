@@ -1,0 +1,19 @@
+Confidentiality
+   Choose operation
+1. Encrypton
+2. Descryption
+3. Exit
+
+1
+Input String: abc
+Encrypted String: def
+Do you want to continue (Y/N): Y
+   Choose operation
+1. Encrypton
+2. Descryption
+3. Exit
+
+2
+Input String: def
+Encrypted String: abc
+Do you want to continue (Y/N): N
